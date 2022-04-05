@@ -710,7 +710,6 @@ a.brand:focus {
     overflow-x: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    overflow-scrolling: touch;
     font-weight: 600;
     letter-spacing: -.025rem;
     list-style: none;
@@ -958,6 +957,10 @@ a.brand:focus {
     padding-top: 7rem
 }
 
+.section-bg {
+    background-image:url('/images/bg/main.png');
+}
+
 .pp-scrollable .vertical-centred {
     padding-top: 10.3rem;
     padding-bottom: 6rem
@@ -1088,12 +1091,19 @@ a.brand:focus {
     background-image: url(../images/bg/texture1.jfif);
     background-position: 50% 50%;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent
 }
 
 .experience-box {
     position: relative;
     white-space: nowrap
+}
+
+.social-list-bottom{
+    border-radius: 5px;
+    padding: 10px;
+    backdrop-filter: blur(2px);
 }
 
 @media(min-width:992px) {
@@ -1594,4 +1604,9 @@ a.brand:focus {
     .social-list-bottom {
         display: block
     }
+}
+@media screen and (max-width: 736px) {
+    .section-bg {
+        background-image:url('/images/bg/main_small.png');
+    } 
 }
