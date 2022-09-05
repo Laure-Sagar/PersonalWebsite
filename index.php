@@ -10,10 +10,9 @@
     <link rel="canonical" href="https://sagarchhetri101.com.np">
 
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Sagar Chhetri | Developer | Digital Marketer | Designer | Entrepreneur</title>
+    <title>Sagar Chhetri | Developer | Digital Marketer | Entrepreneur</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&amp;display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&amp;display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400i&amp;display=swap" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet" media="screen">
 </head>
@@ -68,8 +67,7 @@
                     <div class="brand-text">Chhetri</div>
                 </div>
             </a>
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse"
-                aria-expanded="false">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -87,7 +85,7 @@
             </div>
         </header>
         <footer class="footer">
-            <div class="copy-bottom white boxed">© Sagar Chhetri 2021.</div>
+            <div class="copy-bottom white boxed">© Sagar Chhetri <?php echo date('Y') ?>.</div>
             <div class="social-list social-list-bottom boxed">
                 <a href="https://www.facebook.com/laure.sagar.101" class="icon ion-social-facebook"></a>
                 <a href="https://www.instagram.com/laure_sagar/" class="icon ion-social-instagram"></a>
@@ -109,8 +107,7 @@
                                         <div class="intro">
                                             <div class="row">
                                                 <div class="col-md-8 col-lg-6">
-                                                    <h1 class="display-2 text-white"><span
-                                                            class="text-primary">Greetings,</span> I am A <br>
+                                                    <h1 class="display-2 text-white"><span class="text-primary">Greetings,</span> I am A <br>
                                                         Developer.
                                                     </h1>
                                                 </div>
@@ -136,8 +133,9 @@
                                                 <div class="col-xl-7">
                                                     <div class="experience-box pb-5">
                                                         <div class="experience-content">
-                                                            <div class="experience-number text-texture">4</div><br
-                                                                class="d-block d-sm-none">
+                                                            <div class="experience-number text-texture">
+                                                                <?php echo date('Y') - 2018 ?>
+                                                            </div><br class="d-block d-sm-none">
                                                             <div class="experience-info">Years<br>Experience<br>Working
                                                             </div>
                                                         </div>
@@ -152,27 +150,21 @@
                                                             <div class="number float-right">90%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 90%" aria-valuenow="0" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Frontend</div>
                                                             <div class="number float-right">70%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 60%" aria-valuenow="0" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Graphics</div>
                                                             <div class="number float-right">60%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 70%" aria-valuenow="25" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Sever Management
@@ -180,9 +172,7 @@
                                                             <div class="number float-right">60%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 70%" aria-valuenow="25" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Digital Marketing
@@ -190,9 +180,7 @@
                                                             <div class="number float-right">70%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 70%" aria-valuenow="25" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Team Lead
@@ -200,9 +188,7 @@
                                                             <div class="number float-right">80%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar"
-                                                                style="width: 80%" aria-valuenow="25" aria-valuemin="0"
-                                                                aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -277,9 +263,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Manager and Web
                                                                         Developer</h6>
-                                                                    <p class="resume-study"><a
-                                                                            href="https://prestigecomputer.com.np"
-                                                                            target="_blank">Prestige
+                                                                    <p class="resume-study"><a href="https://prestigecomputer.com.np" target="_blank">Prestige
                                                                             Computer</a>,
                                                                         Kathmandu, Nepal</p>
                                                                     <p class="resume-date text-primary">2018 - 2020</p>
@@ -287,9 +271,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Co-Founder and CEO
                                                                     </h6>
-                                                                    <p class="resume-study"><a
-                                                                            href="https://101infotech.com.np"
-                                                                            target="_blank">101
+                                                                    <p class="resume-study"><a href="https://101infotech.com.np" target="_blank">101
                                                                             INFOTECH</a>,
                                                                         Lalitpur, Nepal</p>
                                                                     <p class="resume-date text-primary">2019 - Current
@@ -304,9 +286,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Co-Founder
                                                                     </h6>
-                                                                    <p class="resume-study"><a
-                                                                            href="https://nepalocation.com"
-                                                                            target="_blank">Nepal Location</a></p>
+                                                                    <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Nepal Location</a></p>
                                                                     <p class="resume-date text-primary">2022 -
                                                                         Current
                                                                     </p>
@@ -321,9 +301,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Co-Founder
                                                                     </h6>
-                                                                    <p class="resume-study"><a
-                                                                            href="https://nepalocation.com"
-                                                                            target="_blank">Your Hostel</a>
+                                                                    <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Your Hostel</a>
                                                                     </p>
                                                                     <p class="resume-date text-primary">2022 -
                                                                         Current
@@ -340,7 +318,8 @@
                                                                         choice for you to find your second home. A
                                                                         place where you can be and feel the
                                                                         presence of a family. 100’s of options to
-                                                                        choose from.</p>
+                                                                        choose from.
+                                                                    </p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -378,8 +357,7 @@
                                                     <h2 class="title-uppercase text-white">LATEST PROJECTS</h2>
                                                     <div class="row-project-box row">
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4 ">
-                                                            <a href="https://ldc325a2.org.np" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://ldc325a2.org.np" target="_blank" class="project-box">
                                                                 <div class="project-box-inner mr-1 shadow-sm">
                                                                     <h5>LDC<br>325 A2</h5>
                                                                     <div class="project-category">Website</div>
@@ -387,8 +365,7 @@
                                                             </a>
                                                         </div>
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4">
-                                                            <a href="https://prestigecomputer.com.np" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://prestigecomputer.com.np" target="_blank" class="project-box">
                                                                 <div class="project-box-inner shadow-sm">
                                                                     <h5>Prestige<br>Computer</h5>
                                                                     <div class="project-category">Website</div>
@@ -396,8 +373,7 @@
                                                             </a>
                                                         </div>
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4">
-                                                            <a href="https://danirasdalmoth.com" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://danirasdalmoth.com" target="_blank" class="project-box">
                                                                 <div class="project-box-inner shadow-sm">
                                                                     <h5>Daniras<br>Dalmoth</h5>
                                                                     <div class="project-category">Website and Branding
@@ -406,8 +382,7 @@
                                                             </a>
                                                         </div>
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4">
-                                                            <a href="https://napp.org.np" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://napp.org.np" target="_blank" class="project-box">
                                                                 <div class="project-box-inner shadow-sm">
                                                                     <h5>NAPPN</h5>
                                                                     <div class="project-category">Website
@@ -416,8 +391,7 @@
                                                             </a>
                                                         </div>
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4">
-                                                            <a href="https://ssitinfotech.com.np" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://ssitinfotech.com.np" target="_blank" class="project-box">
                                                                 <div class="project-box-inner shadow-sm">
                                                                     <h5>SSIT <br>INFOTECH</h5>
                                                                     <div class="project-category">Website and Branding
@@ -426,8 +400,7 @@
                                                             </a>
                                                         </div>
                                                         <div class="col-project-box col-sm-6 col-md-4 col-lg-4">
-                                                            <a href="https://capital.edu.np" target="_blank"
-                                                                class="project-box">
+                                                            <a href="https://capital.edu.np" target="_blank" class="project-box">
                                                                 <div class="project-box-inner shadow-sm">
                                                                     <h5>CAPITAL <br>FOUNDATION</h5>
                                                                     <div class="project-category">Website
@@ -462,16 +435,14 @@
                                                             NEPAL</span></h2>
                                                     <section class="contact-address">
                                                         <h5><a class="mail" href="mailto:info.sagarchhetri@gmail.com">
-                                                                <span
-                                                                    class="__cf_email__">info.sagarchhetri@gmail.com</span></a>
+                                                                <span class="__cf_email__">info.sagarchhetri@gmail.com</span></a>
                                                         </h5>
                                                         <h5><span class="phone">101 INFOTECH</span></h5>
                                                         <h5><span class="phone">+977 9821812699</span></h5>
                                                         <h5><span class="phone">Mahalaxmi-05, Lalitpur,
                                                                 Nepal</span></h5>
                                                         <h5><a class="mail" href="mailto:help@101infotech.com.np">
-                                                                <span
-                                                                    class="__cf_email__">help@101infotech.com.np</span></a>
+                                                                <span class="__cf_email__">help@101infotech.com.np</span></a>
                                                         </h5>
                                                         <h5><a class="mail" href="https://101infotech.com.np">
                                                                 <span class="__cf_email__">101infotech.com.np</span></a>
@@ -483,24 +454,18 @@
                                                         <form class="js-form" novalidate="novalidate">
                                                             <div class="row">
                                                                 <div class="form-group col-sm-6">
-                                                                    <input type="text" name="name" required=""
-                                                                        placeholder="Name*" aria-required="true">
+                                                                    <input type="text" name="name" required="" placeholder="Name*" aria-required="true">
                                                                 </div>
                                                                 <div class="form-group col-sm-6">
-                                                                    <input type="email" required="" name="email"
-                                                                        placeholder="Email*">
+                                                                    <input type="email" required="" name="email" placeholder="Email*">
                                                                 </div>
                                                                 <div class="form-group col-sm-12">
-                                                                    <input type="text" name="subject"
-                                                                        placeholder="Subject (Optional)">
+                                                                    <input type="text" name="subject" placeholder="Subject (Optional)">
                                                                 </div>
                                                                 <div class="form-group col-sm-12">
-                                                                    <textarea name="message" required=""
-                                                                        placeholder="This form is just for show, doesn't work. And I dont have that much time to make it work😆."></textarea>
+                                                                    <textarea name="message" required="" placeholder="This form is just for show, doesn't work. And I dont have that much time to make it work😆."></textarea>
                                                                 </div>
-                                                                <div class="col-sm-12"><a type="button"
-                                                                        href="https://101infotech.com.np/contact"
-                                                                        class="btn">Contact me</a></div>
+                                                                <div class="col-sm-12"><a type="button" href="https://101infotech.com.np/schedule" class="btn">Contact me</a></div>
                                                             </div>
                                                         </form>
                                                     </div>
