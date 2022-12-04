@@ -108,7 +108,7 @@
                                             <div class="row">
                                                 <div class="col-md-8 col-lg-6">
                                                     <h1 class="display-2 text-white"><span class="text-primary">Greetings,</span> I am A <br>
-                                                        Developer.
+                                                        Strategist.
                                                     </h1>
                                                 </div>
                                             </div>
@@ -146,25 +146,41 @@
                                                         </span> Do Best</h2>
                                                     <div class="progress-bars">
                                                         <div class="clearfix">
-                                                            <div class="number float-left">Backend</div>
+                                                            <div class="number float-left">Team Lead
+                                                            </div>
                                                             <div class="number float-right">90%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        </div>
+                                                        <div class="clearfix">
+                                                            <div class="number float-left">Digital Marketing
+                                                            </div>
+                                                            <div class="number float-right">90%</div>
+                                                        </div>
+                                                        <div class="progress">
+                                                            <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                        </div>
+                                                        <div class="clearfix">
+                                                            <div class="number float-left">Backend</div>
+                                                            <div class="number float-right">70%</div>
+                                                        </div>
+                                                        <div class="progress">
+                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Frontend</div>
-                                                            <div class="number float-right">70%</div>
+                                                            <div class="number float-right">60%</div>
                                                         </div>
                                                         <div class="progress">
                                                             <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Graphics</div>
-                                                            <div class="number float-right">60%</div>
+                                                            <div class="number float-right">50%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
                                                             <div class="number float-left">Sever Management
@@ -172,23 +188,7 @@
                                                             <div class="number float-right">60%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                                        </div>
-                                                        <div class="clearfix">
-                                                            <div class="number float-left">Digital Marketing
-                                                            </div>
-                                                            <div class="number float-right">70%</div>
-                                                        </div>
-                                                        <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                                        </div>
-                                                        <div class="clearfix">
-                                                            <div class="number float-left">Team Lead
-                                                            </div>
-                                                            <div class="number float-right">80%</div>
-                                                        </div>
-                                                        <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -261,8 +261,7 @@
                                                         <div class="resume-content">
                                                             <div class="resume-inner">
                                                                 <div class="resume-row">
-                                                                    <h6 class="resume-type">Manager and Web
-                                                                        Developer</h6>
+                                                                    <h6 class="resume-type">Full Stack Developer and Manager</h6>
                                                                     <p class="resume-study"><a href="https://prestigecomputer.com.np" target="_blank">Prestige
                                                                             Computer</a>,
                                                                         Kathmandu, Nepal</p>
@@ -284,7 +283,7 @@
                                                                         digital strategists.</p>
                                                                 </div>
                                                                 <div class="resume-row">
-                                                                    <h6 class="resume-type">Co-Founder
+                                                                    <h6 class="resume-type">Co-Founder and Digital Strategist
                                                                     </h6>
                                                                     <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Nepal Location</a></p>
                                                                     <p class="resume-date text-primary">2022 -
@@ -299,7 +298,7 @@
                                                                         information of Nepal.</p>
                                                                 </div>
                                                                 <div class="resume-row">
-                                                                    <h6 class="resume-type">Co-Founder
+                                                                    <h6 class="resume-type">Co-Founder and Digital Strategist
                                                                     </h6>
                                                                     <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Your Hostel</a>
                                                                     </p>
@@ -439,8 +438,7 @@
                                                         </h5>
                                                         <h5><span class="phone">101 INFOTECH</span></h5>
                                                         <h5><span class="phone">+977 9821812699</span></h5>
-                                                        <h5><span class="phone">Mahalaxmi-05, Lalitpur,
-                                                                Nepal</span></h5>
+                                                        <h5><span class="phone">Tinkune, Kathmandu, Nepal</span></h5>
                                                         <h5><a class="mail" href="mailto:help@101infotech.com.np">
                                                                 <span class="__cf_email__">help@101infotech.com.np</span></a>
                                                         </h5>
