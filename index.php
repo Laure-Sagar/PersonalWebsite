@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="I am a Developer | Digital Marketer | Designer | Entrepreneur">
+    <meta name="description" content="I am a Developer | Digital Marketer | Entrepreneur">
     <meta name="author" content="Sagar Chhetri">
     <meta property="og:image:url" content="images/favicon.png" />
     <link rel="canonical" href="https://sagarchhetri101.com.np">
@@ -85,7 +85,7 @@
             </div>
         </header>
         <footer class="footer">
-            <div class="copy-bottom white boxed">© Sagar Chhetri <?php echo date('Y') ?>.</div>
+            <div class="copy-bottom white boxed">© Sagar Chhetri 2018 - <?php echo date('Y') ?>.</div>
             <div class="social-list social-list-bottom boxed">
                 <a href="https://www.facebook.com/laure.sagar.101" class="icon ion-social-facebook"></a>
                 <a href="https://www.instagram.com/laure_sagar/" class="icon ion-social-instagram"></a>
@@ -146,7 +146,7 @@
                                                         </span> Do Best</h2>
                                                     <div class="progress-bars">
                                                         <div class="clearfix">
-                                                            <div class="number float-left">Team Lead
+                                                            <div class="number float-left">Business Strategy
                                                             </div>
                                                             <div class="number float-right">90%</div>
                                                         </div>
@@ -162,33 +162,19 @@
                                                             <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
-                                                            <div class="number float-left">Backend</div>
+                                                            <div class="number float-left">Programming</div>
                                                             <div class="number float-right">70%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                         <div class="clearfix">
-                                                            <div class="number float-left">Frontend</div>
-                                                            <div class="number float-right">60%</div>
-                                                        </div>
-                                                        <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
-                                                        </div>
-                                                        <div class="clearfix">
-                                                            <div class="number float-left">Graphics</div>
-                                                            <div class="number float-right">50%</div>
-                                                        </div>
-                                                        <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                                                        </div>
-                                                        <div class="clearfix">
-                                                            <div class="number float-left">Sever Management
+                                                            <div class="number float-left">Team Management
                                                             </div>
-                                                            <div class="number float-right">60%</div>
+                                                            <div class="number float-right">80%</div>
                                                         </div>
                                                         <div class="progress">
-                                                            <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                                            <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -433,9 +419,6 @@
                                                     <h2 class="title-uppercase"><span class="text-primary">KATHMANDU,
                                                             NEPAL</span></h2>
                                                     <section class="contact-address">
-                                                        <h5><a class="mail" href="mailto:info.sagarchhetri@gmail.com">
-                                                                <span class="__cf_email__">info.sagarchhetri@gmail.com</span></a>
-                                                        </h5>
                                                         <h5><span class="phone">101 INFOTECH</span></h5>
                                                         <h5><span class="phone">+977 9821812699</span></h5>
                                                         <h5><span class="phone">Tinkune, Kathmandu, Nepal</span></h5>
