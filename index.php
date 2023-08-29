@@ -31,21 +31,7 @@
         <div class="menu">
             <span class="close-menu icon-cross2 right-boxed"></span>
             <ul class="menu-list right-boxed">
-                <li data-menuanchor="page1">
-                    <a href="#page1">Home</a>
-                </li>
-                <li data-menuanchor="page2">
-                    <a href="#page2">About</a>
-                </li>
-                <li data-menuanchor="page3">
-                    <a href="#page3">Resume</a>
-                </li>
-                <li data-menuanchor="page4">
-                    <a href="#page4">Projects</a>
-                </li>
-                <li data-menuanchor="page5">
-                    <a href="#page5">Contact</a>
-                </li>
+                <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sagar-chhetri101" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/sagar-chhetri101?trk=profile-badge">Sagar Chhetri</a></div>
             </ul>
             <div class="menu-footer right-boxed">
                 <div class="social-list">
@@ -271,7 +257,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Co-Founder and Digital Strategist
                                                                     </h6>
-                                                                    <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Nepal Location</a></p>
+                                                                    <p class="resume-study"><a href="https://nepallocation.com.np" target="_blank">Nepal Location</a></p>
                                                                     <p class="resume-date text-primary">2022 -
                                                                         Current
                                                                     </p>
@@ -286,7 +272,7 @@
                                                                 <div class="resume-row">
                                                                     <h6 class="resume-type">Co-Founder and Digital Strategist
                                                                     </h6>
-                                                                    <p class="resume-study"><a href="https://nepalocation.com" target="_blank">Your Hostel</a>
+                                                                    <p class="resume-study"><a href="https://yourhostel.com.np" target="_blank">Your Hostel</a>
                                                                     </p>
                                                                     <p class="resume-date text-primary">2022 -
                                                                         Current
@@ -472,7 +458,7 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/jquery.pagepiling.min.js"></script>
-
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <script src="js/scripts.js"></script>
 </body>
 
